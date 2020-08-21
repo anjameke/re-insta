@@ -1,0 +1,6 @@
+{
+    "domain": "dev-ysqmdhtz.us.auth0.com",
+    "clientId": "",
+    "redirect_uri": "http://localhost:3000",
+    "audience": "https://re-insta.herokuapp.com/v1/graphql"
+}
